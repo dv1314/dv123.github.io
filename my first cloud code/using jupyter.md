@@ -22,6 +22,14 @@ esc + yy 吧cell切换至code模式
 Ctrl + 0 手气或者打开所有的output
 shift 选择多个cell然后执行shift + M合并选择的cell
 
+sorry I  must say sorry to dear Warren Sande Carter Sande 
+these all codes are from his books
+I learn from them 
+this codes are typed by me
+BUT I FORGET TO WRITE THEIR NAME 
+I'm sorry 
+if necessary ,I will delete my codes.
+
 
 ```python
 print("朱总牛逼")
